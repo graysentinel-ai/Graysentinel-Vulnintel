@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/graysentinel-ai/Graysentinel-Vulnintel/main/assets/banner.png" alt="Graysentinel Vulnintel Banner" width="100%">
+</p>
+
 # GRAYSENTINEL VULNINTEL 
 > **Enterprise Vulnerability Intelligence & Attack Surface Management Platform**
 

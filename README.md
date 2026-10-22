@@ -1,4 +1,4 @@
-# VULNINTEL 
+# GRAYSENTINEL VULNINTEL 
 > **Enterprise Vulnerability Intelligence & Attack Surface Management Platform**
 
 [![Version](https://img.shields.io/badge/version-4.0.0-22d3ee?style=flat-square)](https://github.com/graysentinel/graysentinel-vulnintel/releases)
